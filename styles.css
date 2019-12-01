@@ -140,17 +140,18 @@ body {
 
 .chairs_zone
 {
-    height: 609px;
-    margin-left: 98px;
-    margin-top: 120px;
-    margin-right: 118px;
-    background-color:  white;
+    height: 612px;
+    background-color: white;
+    padding-left: 98px;
+    padding-right: 98px;
+    padding-top: 104px;
+    border: none;
 }
 
-/*.chairs_zone_header
+.chairs_zone_header
 {
-    height:
-}*/
+    height: 100px
+}
 
 .chairs_zone_menu
 {
@@ -198,11 +199,25 @@ body {
 
 .chairs_zone_pictures
 {
+    width: 1185px;
+}
+
+.chair_img_first
+{
+    margin-left: none;
+    margin-right: 15px;
+}
+
+.chair_img_last
+{
+    margin-right: none;
+    margin-left: 15px;
 }
 
 .chair_img
 {
-    margin: 5px;
+    margin-left: 15px;
+    margin-right:15px;
 }
 
 .chairs_exclusive_zone
@@ -265,4 +280,178 @@ body {
     float: left;
     height: 570px;
     width: 570px;
+}
+
+.exclusive_fishnet_chair_block
+{
+    padding-left: 51px;
+    padding-top: 228px;
+}
+
+.exclusive_fishnet_chair_title
+{
+    color: #1e88e5;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 48px;
+    letter-spacing: 1.8px;
+}
+
+.exclusive_fishnet_chair_h4
+{
+    color: #212121;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.exclusive_fishnet_chair_content
+{
+    color: #6c6c6c;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 24.04px;
+    width: 374px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.trending_products
+{
+    height: 1118px;   
+    margin-top: 100px;
+    margin-left: 98px;
+}
+
+.trending_products_title
+{
+    display: inline-block;
+    width: 1176px;
+    margin-bottom: 36px;
+}
+.trending_products_h2
+{
+    float:left;
+}
+
+.trending_product_first_in_row_img
+{
+    margin-left: none;
+    margin-right: 15px;
+}
+.trending_product_last_in_row_img
+{
+    margin-right: none;
+    margin-left: 15px;
+}
+
+.trending_product_middle_img
+{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.trending_product_first_line_img
+{
+    margin-bottom: 16px;
+}
+.trending_product_last_line_img
+{
+    margin-top: 16px;
+}
+
+.trending_products_h2
+{
+    color: #212121;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.hot_deal_part
+{
+    padding-top: 280px;
+    padding-left: 104px;
+}
+
+.hot_deal_text
+{
+    position: relative;
+    color: #e53935;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 48px;
+    text-transform: uppercase;
+    letter-spacing: 1.8px;
+}
+
+.hot_deal_title
+{
+    color: #212121;
+    font-size: 62px;
+    font-weight: 100;
+    line-height: 72px;
+    text-transform: uppercase;
+}
+
+.hot_deal_content
+{
+    width: 458px;
+    color: #6c6c6c;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 24px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.hot_deal_pagination {
+    width: 1366px;
+    text-align: center;
+    bottom: -180px;
+    position: relative;
+}
+
+.fishnet_chair_exclusive
+{
+    padding-top: 115px;
+    padding-left: 98px;
+}
+
+.fishnet_chair_exclusive_left
+{
+    margin-right: 16px;
+}
+
+.fishnet_chair_exclusive_right
+{
+    margin-left: 16px;
+}
+
+.first_row
+{
+    margin-bottom: 20px;
+}
+
+.last_row
+{
+    margin-top: 20px;
+}
+
+.first_item_img
+{
+    margin-right: 12px;
+}
+.second_item_img
+{
+    margin-left: 12px;
+}
+
+.third_item_img
+{
+    margin-right: 12px;
+}
+
+.fourth_item_img
+{
+    margin-left: 12px;
 }
