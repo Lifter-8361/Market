@@ -590,3 +590,31 @@ body {
     font-weight: 300;
     line-height: 22px;
 }
+
+.last_row_site
+{
+    clear: both;
+}
+
+.copyright_p
+{
+    color: #6c6c6c;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 26px;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    float:left;
+    margin-right: 250px;
+}
+
+.terms_and_conditions_p
+{
+    color: #6c6c6c;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 26px;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    float: right;
+}
