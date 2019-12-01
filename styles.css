@@ -455,3 +455,138 @@ body {
 {
     margin-left: 12px;
 }
+
+.mobile_app
+{
+    height: 516px;
+    background-image: url(img/mobile_app_zone/back-img.jpg)
+}
+
+.mobile_app_content
+{
+    padding-top: 120px;
+    padding-left: 98px;
+}
+
+.mobile_app_content_text
+{
+    color: #6c6c6c;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 48px;
+    text-transform: uppercase;
+    letter-spacing: 1.8px;
+}
+
+.mobile_app_content_title
+{
+    width: 550px;
+    color: #212121;
+    font-size: 62px;
+    font-weight: 100;
+    line-height: 72px;
+    text-transform: uppercase;
+}
+
+.mobile_app_content_content_text
+{
+    color: #6c6c6c;
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 24px;
+    margin-top: 15px;
+}
+
+.mobile_app_link
+{
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+.contact_us_block
+{
+    float: left;
+    width: 350px;
+}
+
+.contact_us_text
+{
+    color: #6c6c6c;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    text-transform: uppercase;
+    letter-spacing: 1.8px;
+}
+
+.contact_us_mail,
+.contact_us_address
+{
+    margin-top: 12px;
+    width: 260px;
+    color: #212121;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+}
+
+.useful_information_block
+{
+    float: left;
+    width: 480px;
+    height: 101px;
+    margin-left: 20px;
+}
+
+.useful_left
+{
+    margin-top: 12px;
+    float: left;
+    width: 211px;
+}
+
+.useful_right
+{
+    margin-top: 12px;
+    float: right;
+    width: 211px;
+}
+
+.useful_link
+{
+    text-decoration: none;
+    color: #212121;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 26px;
+    text-transform: uppercase;
+    letter-spacing: 0.7px;
+}
+
+.lets_stay_in_touch_text, 
+.useful_information_title
+{
+    color: #6c6c6c;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    text-transform: uppercase;
+    letter-spacing: 1.8px;
+}
+
+.lets_stay_in_touch_block
+{
+    
+    float: left;
+    width: 363px;
+    margin-left: 50px;
+}
+
+.lets_stay_in_touch_text_content
+{
+    margin-top: 12px;
+    color: #212121;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+}
